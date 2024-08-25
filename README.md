@@ -44,6 +44,6 @@ Due to confidentiality agreements, the actual data and the Event Knowledge Graph
 
 ## How to Use
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine to ensure that all visualizations are properly displayed.
 2. Follow the order specified above to navigate through the codebase, matching it with the thesis methodology.
 3. Refer to the thesis document (PDF) for a comprehensive explanation of the research.
